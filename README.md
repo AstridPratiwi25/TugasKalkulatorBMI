@@ -1,14 +1,14 @@
-# 🌡️ Program Konversi Suhu (Celsius → Fahrenheit & Kelvin)
+# 🌡️ Program Kalkulator Sederhana
 
 ## 👤 Identitas
-- **Nama:** [Isi Nama]  
-- **NIM:** [Isi NIM]  
+- **Nama:** Astrid Dwi Pratiwi
+- **NIM:** I.2510060
 - **Mata Kuliah:** Algoritma dan Pemrograman  
 
 ---
 
 ## 🧠 Deskripsi
-Program ini mengonversi suhu dari **Celsius** ke **Fahrenheit** dan **Kelvin** menggunakan **JOptionPane** untuk input dan output.  
+Program ini menghitung **BMI** menggunakan **JOptionPane** untuk input dan output.  
 Langkah program:
 1. Pengguna memasukkan berat badan 
 2. Pengguna memasukkan tinggi badan
@@ -17,7 +17,7 @@ Langkah program:
 ---
 
 ## 💻 Cuplikan Kode
-//
+
 import javax.swing.JOptionPane;
 
 public class KalkulatorBMI {
@@ -65,7 +65,7 @@ public class KalkulatorBMI {
 ![Input Dialog](OutputBeratBadan.png)
 
 ### 📊 Output
-![Output Dialog](sc2.jpg)
+![Output Dialog]()
 
 ---
 
