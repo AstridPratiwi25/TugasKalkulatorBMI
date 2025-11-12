@@ -72,9 +72,7 @@ public class KalkulatorBMI {
 ---
 
 ## ✅ Kesimpulan
-Program berhasil dijalankan dan menampilkan hasil konversi dengan benar.  
+Program berhasil dijalankan dan menampilkan hasil perhitungan dengan benar.  
 Penggunaan **JOptionPane** mempermudah interaksi dengan pengguna tanpa console.
 
 ---
-
-📘 *Contoh ini dijadikan referensi untuk tugas berikutnya: Kalkulator BMI dengan JOptionPane.*
