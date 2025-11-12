@@ -63,7 +63,7 @@ public class KalkulatorBMI {
 ## 🔍 Hasil Uji Coba
 
 ### 💡 Input
-![Input Dialog](Output Berat Badan.png)
+![Input Dialog](OutputBeratBadan.png)
 
 ### 📊 Output
 ![Output Dialog](sc2.jpg)
