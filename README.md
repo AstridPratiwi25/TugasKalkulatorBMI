@@ -1,4 +1,4 @@
-# 🌡️ Program Kalkulator Sederhana
+# 🧮 Program Kalkulator BMI Sederhana
 
 ## 👤 Identitas
 - **Nama:** Astrid Dwi Pratiwi
