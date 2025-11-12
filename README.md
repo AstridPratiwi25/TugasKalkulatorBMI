@@ -64,8 +64,10 @@ public class KalkulatorBMI {
 ### 💡 Input
 ![Input Dialog](OutputBeratBadan.png)
 
+![Input Dialog](OutputTinggiBadan.png)
+
 ### 📊 Output
-![Output Dialog]()
+![Output Dialog](FormatHasilBMI.png)
 
 ---
 
