@@ -18,6 +18,7 @@ Langkah program:
 
 ## 💻 Cuplikan Kode
 
+```java
 import javax.swing.JOptionPane;
 
 public class KalkulatorBMI {
@@ -58,6 +59,7 @@ public class KalkulatorBMI {
         JOptionPane.showMessageDialog(null, hasil, "Hasil Perhitungan BMI", JOptionPane.INFORMATION_MESSAGE);
     }
 }
+```
 
 ## 🔍 Hasil Uji Coba
 
