@@ -68,10 +68,13 @@ public class KalkulatorBMI {
 
 ![Input Dialog](OutputTinggiBadan.png)
 
-### 📊 Output
+### 💡 Output
 ![Output Dialog](FormatHasilBMI.png)
 
 ---
+
+## 📊 Flowchart
+![Flowchart Dialog](FlowchartBMI.drawio)
 
 ## ✅ Kesimpulan
 Program berhasil dijalankan dan menampilkan hasil perhitungan dengan benar.  
