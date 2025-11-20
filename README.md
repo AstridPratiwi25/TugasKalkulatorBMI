@@ -74,7 +74,7 @@ public class KalkulatorBMI {
 ---
 
 ## 📊 Flowchart
-![Flowchart Dialog](FlowchartBMI.drawio)
+![Flowchart Dialog](FlowchartBMI.png)
 
 ## ✅ Kesimpulan
 Program berhasil dijalankan dan menampilkan hasil perhitungan dengan benar.  
