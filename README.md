@@ -78,9 +78,6 @@ public class KalkulatorBMI {
 
 ---
 
-## 📊 Flowchart
-![Flowchart Dialog](FlowchartBMI.png)
-
 ## ✅ Kesimpulan
 Program berhasil dijalankan dan menampilkan hasil perhitungan dengan benar.  
 Penggunaan **JOptionPane** mempermudah interaksi dengan pengguna tanpa console.
