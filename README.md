@@ -16,6 +16,11 @@ Langkah program:
 
 ---
 
+## 📊 Flowchart
+![Flowchart Dialog](FlowchartBMI.png)
+
+---
+
 ## 💻 Cuplikan Kode
 
 ```java
